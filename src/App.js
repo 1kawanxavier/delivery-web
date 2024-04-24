@@ -160,10 +160,10 @@ function App() {
               <div className="totalSection">
                 <h3>Total</h3>
                 <p>
-                  <span>$ </span> {total}
+                  <span>R$ </span> {total}
                 </p>
               </div>
-              <button className="checkOut">Check Out</button>
+              <button className="checkOut">Comprar</button>
             </div>
           )}
         </div>

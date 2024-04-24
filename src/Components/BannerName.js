@@ -1,7 +1,7 @@
 import React from "react";
 
 function BannerName({ name, discount, more }) {
-  const currency = "$";
+  const currency = "R$";
   return (
     <div className="bannerContent">
       <h3>Oi Kawan e Arthur,</h3>
